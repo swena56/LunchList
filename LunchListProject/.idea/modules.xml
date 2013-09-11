@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LunchList/LunchList.iml" filepath="$PROJECT_DIR$/LunchList/LunchList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LunchListProject.iml" filepath="$PROJECT_DIR$/LunchListProject.iml" />
+    </modules>
+  </component>
+</project>
+
